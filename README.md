@@ -17,9 +17,10 @@ Not Yet. Probably not ever :(
 ### Manual
 
 1. [Download the .zip](https://github.com/mrmartineau/SetiUI-Icons-Sublime/archive/master.zip).
-2. Unzip and Copy the folder into `Packages/User` directory, which you can find using the menu item `Preferences -> Browse Packages...` in Sublime Text.
+2. Unzip and Copy the folder into `Packages` directory, which you can find using the menu item `Preferences -> Browse Packages...` in Sublime Text. 
 3. rename the unzipped folder to the exact name of your current theme's parent folder, for example "Theme - Soda"
 4. If your theme is Soda Dark 3, then create a new file called "Soda Dark 3" in the newly downloaded directory.
+   (The final fold structure will be: Packages/Theme - Soda)
 5. Restart Sublime :)
 
 ### Credits
